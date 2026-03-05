@@ -5,6 +5,8 @@
 
 笔记情况说明：
 
+DesignPattern.html - 常用设计模式介绍
+
 Docker.html - Docker容器技术介绍
 
 Log.html - 常用日志框架介绍
